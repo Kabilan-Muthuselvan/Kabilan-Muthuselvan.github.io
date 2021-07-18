@@ -1,0 +1,23 @@
+.blue-text {
+  color: blue;
+  font-family: 'Comic Sans MS'
+}
+
+.blue-text:hover {
+  color: Black;
+  font-family: 'Comic Sans MS'
+}
+
+
+.first-section{
+  color: ;
+  font-family: monospace;
+  border-color: Purple;
+  border-width: 9px;
+  border-style: Dotted ;
+  padding: 0px;
+  margin: 30px;
+  text-align: left;
+  font-size: 24pt;
+  font-family: "Calibri", sans-serif;
+}
